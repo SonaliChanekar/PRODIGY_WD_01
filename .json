@@ -1,0 +1,12 @@
+// Created by sonali
+
+function menu() {
+    var headerMenuLinksContainer = document.getElementById("headerMenuLinksContainer");
+    headerMenuLinksContainer.style.visibility = "visible";
+}
+function closeMenu() {
+    headerMenuLinksContainer.style.visibility = "hidden"
+}
+
+alert("Please Upvote if you like my Design and dont forget to check my other cool designs 💘💘");
+alert("view on a website by clicking this link https://6xmejz.mimo.run/index.html")
